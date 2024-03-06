@@ -5,10 +5,10 @@ This is a simple Todo application built with Node.js, Express, and MongoDB, foll
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
+- #features
+- installation
+- (#usage)
+- [File Structure]
 - [Contributing](#contributing)
 - [License](#license)
 
